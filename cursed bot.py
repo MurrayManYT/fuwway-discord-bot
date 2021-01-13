@@ -23,4 +23,4 @@ async def hewp(ctx):
 async def invite(ctx):
     await ctx.send("Heres's my invite link: https://discord.com/api/oauth2/authorize?client_id=798553197652344872&permissions=0&scope=bot")
         
-client.run("Nzk4NTUzMTk3NjUyMzQ0ODcy.X_2sng.SsV05lY_m0brOnBX1NaHyG0KSV0")
+client.run("bot token")
